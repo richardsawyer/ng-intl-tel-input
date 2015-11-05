@@ -26,7 +26,7 @@
     "tests"
   ],
   "dependencies": {
-    "intl-tel-input": "https://github.com/richardsawyer/intl-tel-input.git"
+    "intl-tel-input": "https://github.com/richardsawyer/intl-tel-input.git#61f2ee6a2153246f69f2469b46bfa2c4be07a9bd"
   },
   "devDependencies": {
     "angularjs": "1.4.3",
